@@ -1,0 +1,13 @@
+Package: rcrpsfnac
+Type: Package
+Title: Financial news articles in Chinese
+Version: 0.1
+Date: 2017-04-13
+Author: Mans Magnusson, Feng Li
+Maintainer: Mans Magnusson <mons.magnusson@gmail.com>
+Description: Financial news articles in Chinese
+License: LGP-3
+Imports: 
+  tidytext,
+  dplyr
+RoxygenNote: 5.0.1
