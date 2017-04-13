@@ -1,4 +1,4 @@
-#' Financial news in Chinese
+#' Financial news in Chinese (small corpus)
 #'
 #' Financial news for a couple of companies in Chinese webscraped using a search engine. 
 #'
